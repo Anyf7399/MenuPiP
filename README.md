@@ -39,7 +39,7 @@ brew install --cask menupip
 
 ## Demo
 
-https://github.com/user-attachments/assets/39e1ce88-1824-4ab5-af6a-5dd3f727d26d
+https://github.com/user-attachments/assets/083dc81f-702e-41f2-8a4b-f4d1eccb45f4
 
 ## Why MenuPiP?
 
@@ -57,19 +57,19 @@ Most PiP apps on macOS only work with video players like Safari or Chrome. MenuP
 
 Select any open window and instantly create a floating PiP overlay. Always on top, across all Spaces and full-screen apps. Works with Safari, Chrome, Terminal, Xcode, Figma, Slack, Discord, and every other macOS app.
 
-https://github.com/user-attachments/assets/0410c9f2-7882-4f7b-8a44-b1889501a08d
+https://github.com/user-attachments/assets/fcce98e4-7032-477e-887b-99367fe7a955
 
 ### Multiple Simultaneous PiPs
 
 Run as many PiP windows as you need. Each one is independently resizable and positionable. Perfect for multi-monitor setups and ultrawide displays.
 
-https://github.com/user-attachments/assets/63addffb-680e-4354-9c7f-55df5d10bd9f
+https://github.com/user-attachments/assets/b909d052-074b-4ea9-8e17-bb8052d9c0fc
 
 ### Region Capture
 
 Capture just a portion of a window — crop to exactly what you need. Great for isolating album art, chat panels, video feeds, or specific UI elements.
 
-https://github.com/user-attachments/assets/a6e9c528-ff70-4513-b454-0ef16b9d250a
+https://github.com/user-attachments/assets/4603ff2b-a0ee-420f-9065-35dc566f167b
 
 ### Opacity & FPS Control
 
@@ -79,13 +79,13 @@ Adjust transparency per PiP window so it doesn't block your view. Control refres
 
 Toggle with ⌃⌥P — clicks pass through PiP windows so you can interact with content behind them. Essential for floating overlays you want to see but not accidentally click.
 
-https://github.com/user-attachments/assets/ca2ba17c-3660-44d6-9cf3-68abc506478e
+https://github.com/user-attachments/assets/41ce9a54-5a22-4e05-9f7c-a6064099ba2e
 
 ### Settings & Localization
 
 Available in 7 languages: English, Korean, Japanese, Chinese (Simplified), Spanish, French, German. Launch at login, auto-close when source window closes, and more.
 
-https://github.com/user-attachments/assets/f6154674-63a9-4970-84a2-0973e7e88958
+https://github.com/user-attachments/assets/cdc7e24e-7234-4023-aeae-49666d89c615
 
 ## Use Cases
 
