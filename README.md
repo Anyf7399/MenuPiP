@@ -113,7 +113,7 @@ One-time purchase. Yours forever. No subscription.
 
 | | Details |
 |---|---|
-| **Price** | $6.99 (one-time) |
+| **Price** | $4.99 (one-time) |
 | **Free Trial** | 3 days with full access |
 | **After Trial** | Purchase required to continue |
 | **Buy** | [Gumroad](https://ramter.gumroad.com/l/menupip) |
